@@ -46,7 +46,7 @@
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
 <h2 align="center">
-✨ Where you can find me ✨
+✨ Where you can find me: ✨
  
    <p align="center">
 <a href="https://www.linkedin.com/in/diana-gabriela-mi%c3%b1os-b7011a208/" target="blank"><img align="center" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="https://www.linkedin.com/in/diana-gabriela-mi%c3%b1os-b7011a208/" height="40" width="40" /></a>
@@ -68,6 +68,8 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CuquLab&repo=Cuqu)](https://github.com/CuquLab/Cuqu)
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
+
+📈 Stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgminos&layout=compact)](https://github.com/dgminos/github-readme-stats)
 
