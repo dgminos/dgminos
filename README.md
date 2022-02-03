@@ -7,18 +7,15 @@
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
-<span align="center"> 👧 A little about myself: 
+<h3 align="center"> <strong>👧 A little about myself: </strong></h3>
 
-- I studied Frontend development in Ada ITW.
-- I love to watch movies and tv series.
-- I enjoy traveling and learning about different cultures and people.
+<p align="center"> - I studied Frontend development in Ada ITW.<p/>
+    <p align="center"> - I love to watch movies and tv series.</p>
+   <p align="center"> - I enjoy traveling and learning about different cultures and people.</p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/dgminos](https://github.com/dgminos) </span>
+<h3 align="center">Languages, libraries, frameworks and Tools:</h3>
 
-
-<h3>Languages, libraries, frameworks and Tools:</h3>
-
-<p>
+<p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
@@ -45,34 +42,32 @@
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
-<h2 align="center">
+<h3 align="center">
 ✨ Where you can find me: ✨
  
-   <p align="center">
-<a href="https://www.linkedin.com/in/diana-gabriela-mi%c3%b1os-b7011a208/" target="blank"><img align="center" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="https://www.linkedin.com/in/diana-gabriela-mi%c3%b1os-b7011a208/" height="40" width="40" /></a>
-<a href="https://github.com/dgminos" target="blank"><img align="center" src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" alt="https://github.com/dgminos" height="40" width="40" /></a>
-  </p>
-</h2>
+<a href="https://www.linkedin.com/in/diana-gabriela-mi%c3%b1os-b7011a208/" target="blank"><img align="center" src="https://media.giphy.com/media/HQTYdpx1yhxWpugAi2/giphy.gif" alt="https://www.linkedin.com/in/diana-gabriela-mi%c3%b1os-b7011a208/" height="40" width="40" /> </a>
+  </h3>
 
-<h3 align="center"><strong> Feel free to look at my experiment lab. ❤ </strong> </h3>
+<h3 align="center">
+    <strong> Feel free to look at my experiment lab. ❤ 👇 </strong> 
+    
+<a href="https://github.com/dgminos" target="blank"><img align="center" src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" alt="https://github.com/dgminos" height="40" width="40"/> </a> 
+   </h3>
+    
+<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
+
+<p align="center"> 🚀 Some of my main projects:</p>
+
+<p align="center"> - 🔭 Here you will find some projects that I was creating during and after the end of the Frontend development bootcamp in Ada ITW. </p>
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgminos&repo=movie-app)](https://github.com/dgminos/movie-app)    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CuquLab&repo=Cuqu)](https://github.com/CuquLab/Cuqu) 
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
-
-🚀 Some of my main projects:
-
-- 🔭 Here you will find some projects that I was creating during and after the end of the Frontend development bootcamp in Ada ITW.
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgminos&repo=movie-app)](https://github.com/dgminos/movie-app)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CuquLab&repo=Cuqu)](https://github.com/CuquLab/Cuqu)
-
-<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
-
-📈 Stats:
+<p align="center"> 📈 Stats: </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dgminos&layout=compact)](https://github.com/dgminos/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=dgminos)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=dgminos)](https://github.com/dgminos/github-readme-stats)
 
 <hr>
