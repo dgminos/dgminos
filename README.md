@@ -59,7 +59,7 @@
 
 <p align="center"> - 🔭 Here you will find some projects that I was creating during and after the end of the Frontend development bootcamp in Ada ITW. </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgminos&repo=movie-app)](https://github.com/dgminos/movie-app)    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CuquLab&repo=Cuqu)](https://github.com/CuquLab/Cuqu) 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgminos&repo=movie-app)](https://github.com/dgminos/movie-app)    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CuquLab&repo=Cuqu)](https://github.com/CuquLab/Cuqu) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgminos&repo=rick-and-morty-app)](https://github.com/dgminos/rick-and-morty-app)
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
