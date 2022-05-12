@@ -37,8 +37,8 @@
   </a> 
       <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> 
   </a> 
-     <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
-  </a>
+          <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://images.prismic.io/intuzwebsite/9b5885e8-cd60-43b5-899c-d8d4a7272625_NextJS.png?auto=compress,format" alt="nextjs" width="40" height="40"/> 
+  </a>     
 </p>
 
 <img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
