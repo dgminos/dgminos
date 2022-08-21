@@ -4,7 +4,6 @@
 <h2 align="center"> 💻 Frontend developer 💻
 </h2>
 
-<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
 <h3 align="center"> <strong>👧 A little about myself: </strong></h3>
 
@@ -41,7 +40,6 @@
   </a>     
 </p>
 
-<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
 <h3 align="center">
 ✨ Where you can find me: ✨
@@ -55,7 +53,6 @@
 <a href="https://github.com/dgminos" target="blank"><img align="center" src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" alt="https://github.com/dgminos" height="40" width="40"/> </a> 
    </h3>
     
-<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
 <p align="center"> 🚀 Some of my main projects:</p>
 
@@ -63,7 +60,6 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgminos&repo=movie-app)](https://github.com/dgminos/movie-app)    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CuquLab&repo=Cuqu)](https://github.com/CuquLab/Cuqu) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgminos&repo=rick-and-morty-app)](https://github.com/dgminos/rick-and-morty-app)
 
-<img src="https://yata-apix-a9caea66-ad78-425f-aa08-e292558ebb65.lss.locawebcorp.com.br/b7c7dbff38ae4f419c94ce8d2254b9d9.png"> 
 
 <p align="center"> 📈 Stats: </p>
 
