@@ -58,7 +58,7 @@
 
 <p align="center"> - 🔭 Here you will find some projects that I was creating during and after the end of the Frontend development bootcamp in Ada ITW. </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgminos&repo=movie-app)](https://github.com/dgminos/movie-app)    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CuquLab&repo=Cuqu)](https://github.com/CuquLab/Cuqu) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgminos&repo=rick-and-morty-app)](https://github.com/dgminos/rick-and-morty-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgminos&repo=movie-app)](https://github.com/dgminos/movie-app)    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CuquLab&repo=Cuqu)](https://github.com/CuquLab/Cuqu) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgminos&repo=rick-and-morty-app)](https://github.com/dgminos/rick-and-morty-app)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgminos&repo=mern-app-front)](https://github.com/dgminos/mern-app-front)
 
 
 <p align="center"> 📈 Stats: </p>
