@@ -1,14 +1,13 @@
 
 <h1 align="center"> <img align="center" src="https://media.giphy.com/media/j6ZhcAyUctYrj2ueBi/giphy.gif" alt="hello world" width="70" height="70"> I'm Diana Gabriela Miños 
 </h1> 
-<h2 align="center"> 💻 Frontend developer 💻
+<h2 align="center"> 💻 Fullstack developer 💻
 </h2>
 
 
 <h3 align="center"> <strong>👧 A little about myself: </strong></h3>
 
-<p align="center"> - I studied Frontend development in Ada ITW.<p/>
-    <p align="center"> - I love to watch movies and tv series.</p>
+<p align="center"> - I love to watch movies and tv series.</p>
    <p align="center"> - I enjoy traveling and learning about different cultures and people.</p>
 
 <h3 align="center">Languages, libraries, frameworks and tools:</h3>
@@ -26,8 +25,6 @@
   </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
@@ -37,8 +34,19 @@
       <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40"/> 
   </a> 
           <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://images.prismic.io/intuzwebsite/9b5885e8-cd60-43b5-899c-d8d4a7272625_NextJS.png?auto=compress,format" alt="nextjs" width="40" height="40"/> 
-  </a>     
+  </a> 
+    <a href="https://nodejs.org/en/about" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/>
+  </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+    <a href="https://www.mongodb.com/es" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+     <a href="https://aws.amazon.com/free/?nc1=h_ls" target="_blank" rel="noreferrer"> <img src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/102017/logo_0.png?17TK91b1B6OvV2MFrCLfukw1c8oEaNr6&itok=vsanFiUj" alt="aws" width="40" height="40"/>
+  </a>
+     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express.js" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 <h3 align="center">
