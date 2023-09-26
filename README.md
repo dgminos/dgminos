@@ -3,12 +3,14 @@
 </h1> 
 <h2 align="center"> 💻 Fullstack developer 💻
 </h2>
-
+</br>
 
 <h3 align="center"> <strong>👧 A little about myself: </strong></h3>
 
 <p align="center"> - I love to watch movies and tv series.</p>
    <p align="center"> - I enjoy traveling and learning about different cultures and people.</p>
+   </br>
+   
 
 <h3 align="center">Languages, libraries, frameworks and tools:</h3>
 
@@ -46,7 +48,7 @@
      <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express.js" width="40" height="40"/>
   </a>
 </p>
-
+</br>
 
 
 <h3 align="center">
