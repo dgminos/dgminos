@@ -7,7 +7,7 @@
 
 <h3 align="center"> <strong>👧 A little about myself: </strong></h3>
 
-<p align="center"> - I love to watch movies and tv series.</p>
+<p align="center"> - I love watching movies, TV series and listening to music.</p>
    <p align="center"> - I enjoy traveling and learning about different cultures and people.</p>
    </br>
    
