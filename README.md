@@ -7,11 +7,9 @@
 
 <h3 align="center"> <strong>👧 A little about myself: </strong></h3>
 
-<p align="center"> - I love watching movies, TV series and listening to music.</p>
-   <p align="center"> - I enjoy traveling and learning about different cultures and people.</p>
+<p align="center"> - I'm intereseted in technology to make user friendly apps</p>
    </br>
    
-
 <h3 align="center">Languages, libraries, frameworks and tools:</h3>
 
 <p align="center">
@@ -58,7 +56,7 @@
   </h3>
 
 <h3 align="center">
-    <strong> Feel free to look at my experiment lab. ❤ 👇 </strong> 
+    <strong> Feel free to look at my experiment lab ❤ 👇 </strong> 
     
 <a href="https://github.com/dgminos" target="blank"><img align="center" src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" alt="https://github.com/dgminos" height="40" width="40"/> </a> 
    </h3>
@@ -66,7 +64,7 @@
 
 <p align="center"> 🚀 Some of my main projects:</p>
 
-<p align="center"> - 🔭 Here you will find some projects that I was creating during and after the end of the Frontend development bootcamp in Ada ITW. </p>
+<p align="center"> - 🔭 Here you will find some projects that I was creating during and after the end of the Frontend development bootcamp in Ada ITW </p>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgminos&repo=movie-app)](https://github.com/dgminos/movie-app)    [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CuquLab&repo=Cuqu)](https://github.com/CuquLab/Cuqu) [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgminos&repo=rick-and-morty-app)](https://github.com/dgminos/rick-and-morty-app)  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dgminos&repo=mern-app-front)](https://github.com/dgminos/mern-app-front)
 
